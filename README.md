@@ -8,6 +8,9 @@ Este projeto mostra como realizar conexão e consultas em um banco de dados **Fi
 - Biblioteca `fdb`
 - DBeaver Community (auxílio na exploração da estrutura do banco)
 
+## Imagem DBeaver
+![Dados Legados](DadosLegados.png)
+
 ## ⚙️ Requisitos
 Instale as dependências com:
 ```bash
